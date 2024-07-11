@@ -11,6 +11,7 @@
 		0B12B6CB2C3F8D060001489B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B12B6CA2C3F8D060001489B /* ContentView.swift */; };
 		0B12B6CD2C3F8D080001489B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0B12B6CC2C3F8D080001489B /* Assets.xcassets */; };
 		0B12B6D02C3F8D080001489B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0B12B6CF2C3F8D080001489B /* Preview Assets.xcassets */; };
+		0B12B6D72C3FA7BC0001489B /* APIkey.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0B12B6D62C3FA7BC0001489B /* APIkey.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		0B12B6CA2C3F8D060001489B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0B12B6CC2C3F8D080001489B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0B12B6CF2C3F8D080001489B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0B12B6D62C3FA7BC0001489B /* APIkey.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = APIkey.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 				0B12B6C82C3F8D060001489B /* githubAppApp.swift */,
 				0B12B6CA2C3F8D060001489B /* ContentView.swift */,
 				0B12B6CC2C3F8D080001489B /* Assets.xcassets */,
+				0B12B6D62C3FA7BC0001489B /* APIkey.plist */,
 				0B12B6CE2C3F8D080001489B /* Preview Content */,
 			);
 			path = githubApp;
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0B12B6D72C3FA7BC0001489B /* APIkey.plist in Resources */,
 				0B12B6D02C3F8D080001489B /* Preview Assets.xcassets in Resources */,
 				0B12B6CD2C3F8D080001489B /* Assets.xcassets in Resources */,
 			);
